@@ -1,9 +1,0 @@
-Sobre mim: Me chamo Vinícius Faria Alves, tenho 23 anos de idade, moro no interior de minas gerais, numa cidade chamada guapé no sul de minas.
-
-Um pouco dos meus hobbies são ouvir musicas, esportes, assistir youtube, Netflix, buscar conhecimentos tanto nas áreas que estudo, quanto em áreas que não tenho conhecimento.
-
-Em setembro de 2023 me matriculei na faculdade de engenharia de software, mas só comecei a estudar programação em abril de 2024, começando por front-end, no básico de HTML, mas parei por um tempo achando que não era para mim, más no mês de maio, retornei aos estudos de programação, avançando um pouco mas em HTML, estou começando a estudar CSS, más quero mesmo é estudar o back-end.
-
-
-
-Linguagem de programação: HTML, CSS, JavaScript
